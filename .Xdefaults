@@ -1,0 +1,60 @@
+URxvt*scrollBar: false
+
+URxvt*.foreground:   #c6c8d1
+URxvt*.background:   #161821
+URxvt*.cursorColor:  #c6c8d1
+
+! black
+URxvt*.color0:       #1e2130
+URxvt*.color8:       #6b7089
+
+! red
+URxvt*.color1:       #e27878
+URxvt*.color9:       #e98989
+
+! green
+URxvt*.color2:       #b4be82
+URxvt*.color10:      #c0ca8e
+
+! yellow
+URxvt*.color3:       #e2a478
+URxvt*.color11:      #e9b189
+
+! blue
+URxvt*.color4:       #84a0c6
+URxvt*.color12:      #91acd1
+
+! magenta
+URxvt*.color5:       #a093c7
+URxvt*.color13:      #ada0d3
+
+! cyan
+URxvt*.color6:       #89b8c2
+URxvt*.color14:      #95c4ce
+
+! white
+URxvt*.color7:       #c6c8d1
+URxvt*.color15: #d2d4de
+
+# --- URxvt*.Settings ---
+
+     URxvt*.internalBorder: 10
+     URxvt*.scrollBar: false
+     URxvt*.perl-ext-common: default,matcher
+     URxvt*.url-launcher: /usr/bin/firefox
+     URxvt*.matcher.button: 1
+     URxvt*.font:  -lucy-tewi-medium-r-normal-*-11-90-100-100-c-60-iso10646-1
+#   URxvt*.font: xft:Pragmata Pro:pixelsize=13:antialias=true
+     URxvt*.boldFont: x
+#   URxvt*.boldFont: xft:Pragmata Pro:pixelsize=13:antialias=false
+#   URxvt*.letterSpace: -1
+
+# --- XFT Settings ---
+
+#		Xft.dpi: 96
+#		Xft.autohint: 0
+#		Xft.lcdfilter:  lcddefault
+#		Xft.hintstyle:  hintfull
+#		Xft.hinting: 1
+#       	  Xft.antialias: 1
+# Xft.rgba: rgb
